@@ -1,1 +1,83 @@
-�\�t�g���Fnum_glyph�i0.4�j���C�Z���X�FGNU GPLv3�@�@��ҁF�s�삹�����[�^(c)2007-2009 Seuzo Ichikawa������FMacOS X10.5.6�AInDesign CS4_J�i6.0.1�j�J�����FMac Pro Quad 3GHz�iIntel�j�AExtendScript Toolkit�J������FJavaScript���k���@�Fzip�R�����g�F**��������X�N���v�g���H�I���e�L�X�g�̐������`��ύX���܂��B�����Ƃ��đI�ׂ�̂�>>-���ׂĂ�W�����`�ɂ��� -���ׂĂ�񕪎��`�ɂ��� -���ׂĂ��O�����`�ɂ��� -���ׂĂ��l�����`�ɂ��� -�Q��������񕪎��`�ɂ��� -�R���������O�����`�ɂ��� -�S���������l�����`�ɂ��� -�Q����񕪎��`�ɁA�R�����O�����`�ɂ��� -�Q����񕪎��`�ɁA�R�����O�����`�A�S�����l�����`�ɂ���<<**�����t�@�C��2Files-Readme.txt	���̃t�@�C���ł��B�Ƃɂ����ŏ��ɂ��ł��������B-num_glyph.jsx	�X�N���v�g�{�̂ł��B**�g�p�������̃X�N���v�g������ɓ��삷����͈ȉ��̒ʂ�ł��BWindows���ł����삷��\��������܂��������؂ł��B-MacOS X10.5.6-InDesign CS4_J�i6.0.1�j**�C���X�g�[���X�N���v�g�{�́inum_glyph.jsx�j��~/Library/Preferences/Adobe InDesign/Version 6.0-J/ja_JP/Scripts/Scripts Panel/�ɃR�s�[���Ă��������B�G�C���A�X�����Ă��������ł����܂��܂���B�X�N���v�g�p���b�g����g�p���܂��B**�g�p���@+�u�E�C���h�E�v���j���[����u�X�N���v�e�B���O�v�[�u�X�N���v�g�v��I�����A�X�N���v�g�p���b�g���o���܂��B+���`�ϊ��������e�L�X�g�͈͂�I�����܂��B+�X�N���v�g�p���b�g����A�X�N���v�g�unum_glyph.jsx�v���_�u���N���b�N���܂��B-���������ɁA���p�s���I�h�┼�p�J���}���܂񂾐�����𖳎����܂��B-���ׂĂ̎��`��ύX���鎞�A���p�s���I�h�┼�p�J���}���܂߂Ď��`���������܂��B**���m�̕s��A�܂���ToDo-�\�E�܂��̓Z����I�����Ă��A�Z�����̃e�L�X�g���������܂���B**���lInDesign CS4�ł́A���K�\���X�^�C���@�\���g���Ɠ��l�̏����������ōs���܂��B[http://d.hatena.ne.jp/seuzo/20081217/1229439838:title=���K�\���X�^�C�� Tips(2) - �����Ȃ��e�N�m��]���̃X�N���v�g�́A�����܂Ńe�L�X�g�I��͈͂ł̂ݗL���ł��B**�Ɛӎ���-�{�A�v���P�[�V������InDesign�ɂ������ƌ����x���Ȃ̂ł����āA�������ʂ�ۏ؂�����̂ł͂���܂���B���Ȃ炸�m�F������邱�Ƃ��������߂��܂��B-���̃c�[�����g�p�����Ńf�[�^�̔j���Ȃǂ̂�����s��E�s���v�ɂ��Ă͈�؂̐ӔC�𕉂����˂܂��̂ł��������������B-���̃c�[���͂��ׂĂ�Macintosh��Mac OS��œ��������Ƃ����m�F���Ƃ��Ă��܂��񂵁A������o���܂���B���������āA�����ۏ؂�����̂ł͂���܂���B**���C�Z���XGNU GPLv3http://sourceforge.jp/projects/opensource/wiki/licenses%252FGNU_General_Public_License_version_3.0**����2007.08.08	ver.0.1	AppleScript�Ńv���g�^�C�v�B2007.09.18	ver.0.2 GUI�������B���낢�돈����I�ׂ�悤�ɂ����BJavaScript�ŏ��������B2007.09.21	ver.0.3 �|�b�v�A�b�v���j���[�����W�I�{�^���ɕς����B�C���̖��B2009.04.14	ver.0.4	InDesign CS4�Ή��B����������I�����Ă��Ă��ϊ�����悤�ɂ����B���������ɁA���p�s���I�h�┼�p�J���}���܂񂾐�����͕ϊ����Ȃ��悤�ɂ����B�s�삹�����[http://www.seuzo.jp/
+ソフト名：num_glyph（0.4）
+ライセンス：GNU GPLv3
+　　作者：市川せうぞー／(c)2007-2009 Seuzo Ichikawa
+動作環境：MacOS X10.5.6、InDesign CS4_J（6.0.1）
+開発環境：Mac Pro Quad 3GHz（Intel）、ExtendScript Toolkit
+開発言語：JavaScript
+圧縮方法：zip
+コメント：
+
+**何をするスクリプトか？
+選択テキストの数字字形を変更します。
+処理として選べるのは
+>>
+-すべてを標準字形にする 
+-すべてを二分字形にする 
+-すべてを三分字形にする 
+-すべてを四分字形にする 
+-２桁だけを二分字形にする 
+-３桁だけを三分字形にする 
+-４桁だけを四分字形にする 
+-２桁を二分字形に、３桁を三分字形にする 
+-２桁を二分字形に、３桁を三分字形、４桁を四分字形にする
+<<
+
+
+**同梱ファイル2Files
+-Readme.txt	このファイルです。とにかく最初によんでください。
+-num_glyph.jsx	スクリプト本体です。
+
+
+**使用条件
+このスクリプトが正常に動作する環境は以下の通りです。Windows環境でも動作する可能性がありますが未検証です。
+-MacOS X10.5.6
+-InDesign CS4_J（6.0.1）
+
+
+**インストール
+スクリプト本体（num_glyph.jsx）を
+~/Library/Preferences/Adobe InDesign/Version 6.0-J/ja_JP/Scripts/Scripts Panel/
+にコピーしてください。エイリアスを入れておくだけでもかまいません。
+スクリプトパレットから使用します。
+
+
+**使用方法
++「ウインドウ」メニューから「スクリプティング」ー「スクリプト」を選択し、スクリプトパレットを出します。
++字形変換したいテキスト範囲を選択します。
++スクリプトパレットから、スクリプト「num_glyph.jsx」をダブルクリックします。
+
+-桁処理時に、半角ピリオドや半角カンマを含んだ数字列を無視します。
+-すべての字形を変更する時、半角ピリオドや半角カンマも含めて字形を処理します。
+
+
+**既知の不具合、またはToDo
+-表・またはセルを選択しても、セル内のテキストを処理しません。
+
+
+**備考
+作者の好みにより、１桁の処理は行いません。
+InDesign CS4では、正規表現スタイル機能を使うと同様の処理が自動で行えます。
+[http://d.hatena.ne.jp/seuzo/20081217/1229439838:title=正規表現スタイル Tips(2) - 名もないテクノ手]
+このスクリプトは、あくまでテキスト選択範囲でのみ有効です。
+
+
+**免責事項
+-本アプリケーションはInDesignにおける作業効率支援なのであって、処理結果を保証するものではありません。かならず確認をされることをおすすめします。
+-このツールを使用する上でデータの破損などのあらゆる不具合・不利益については一切の責任を負いかねますのでご了解ください。
+-このツールはすべてのMacintoshとMac OS上で動作をするという確認をとっていませんし、事実上出来ません。したがって、動作を保証するものではありません。
+
+
+**ライセンス
+GNU GPLv3
+http://sourceforge.jp/projects/opensource/wiki/licenses%252FGNU_General_Public_License_version_3.0
+
+
+**履歴
+2007.08.08	ver.0.1	AppleScript版プロトタイプ。
+2007.09.18	ver.0.2 GUIをつけた。いろいろ処理を選べるようにした。JavaScriptで書き直し。
+2007.09.21	ver.0.3 ポップアップメニューをラジオボタンに変えた。気分の問題。
+2009.04.14	ver.0.4	InDesign CS4対応。数字だけを選択していても変換するようにした。桁処理時に、半角ピリオドや半角カンマを含んだ数字列は変換しないようにした。
+
+
+市川せうぞー
+http://www.seuzo.jp/
