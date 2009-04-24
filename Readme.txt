@@ -77,6 +77,7 @@ http://sourceforge.jp/projects/opensource/wiki/licenses%252FGNU_General_Public_L
 2007.09.18	ver.0.2 GUIをつけた。いろいろ処理を選べるようにした。JavaScriptで書き直し。
 2007.09.21	ver.0.3 ポップアップメニューをラジオボタンに変えた。気分の問題。
 2009.04.14	ver.0.4	InDesign CS4対応。数字だけを選択していても変換するようにした。桁処理時に、半角ピリオドや半角カンマを含んだ数字列は変換しないようにした。
+2009-04-24	ver.0.4.1	ダイアログを出す前にUserInteractionLevels.interactWithAllとした。
 
 
 市川せうぞー

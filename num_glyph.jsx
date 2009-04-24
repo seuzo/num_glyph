@@ -25,6 +25,7 @@ myList	ラジオボタンに展開するリスト
 result	選択したリスト番号
 */
 function radioDialog(my_title, my_prompt, my_list){
+	app.scriptPreferences.userInteractionLevel = UserInteractionLevels.interactWithAll;
 	var my_dialog = app.dialogs.add({name:my_title, canCancel:true});
 	with(my_dialog) {
 		with(dialogColumns.add()) {
